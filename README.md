@@ -43,3 +43,4 @@ git clone https://github.com/502417lyj/Charon-Engine-The-Onchain-Dead-Man-s-Swit
 cp config/.env.example config/.env
 python main.py
 
+<img width="750" height="713" alt="b72d16b24f9bbad544e130f5aa1897a7" src="https://github.com/user-attachments/assets/04f9f680-3bb3-4ce2-b55b-79c46b0bd509" />
