@@ -38,3 +38,8 @@ Charon Engine is an automated onchain inheritance agent. It acts as a silent wat
 ```
 🛠️ Reproducibility & Architecture
 This repository contains the backend agent logic. To run the simulation locally:
+```bash
+git clone https://github.com/502417lyj/Charon-Engine-The-Onchain-Dead-Man-s-Switch-/tree/main
+cp config/.env.example config/.env
+python main.py
+
